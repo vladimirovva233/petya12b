@@ -1,0 +1,16 @@
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\pej sio\bin\Debug\net5.0\pej sio.exe
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\pej sio\bin\Debug\net5.0\pej sio.deps.json
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\pej sio\bin\Debug\net5.0\pej sio.runtimeconfig.json
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\pej sio\bin\Debug\net5.0\pej sio.runtimeconfig.dev.json
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\pej sio\bin\Debug\net5.0\pej sio.dll
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\pej sio\bin\Debug\net5.0\ref\pej sio.dll
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\pej sio\bin\Debug\net5.0\pej sio.pdb
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\pej sio\obj\Debug\net5.0\pej sio.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\pej sio\obj\Debug\net5.0\pej sio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\pej sio\obj\Debug\net5.0\pej sio.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\pej sio\obj\Debug\net5.0\pej sio.AssemblyInfo.cs
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\pej sio\obj\Debug\net5.0\pej sio.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\pej sio\obj\Debug\net5.0\pej sio.dll
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\pej sio\obj\Debug\net5.0\ref\pej sio.dll
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\pej sio\obj\Debug\net5.0\pej sio.pdb
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\pej sio\obj\Debug\net5.0\pej sio.genruntimeconfig.cache

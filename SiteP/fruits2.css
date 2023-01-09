@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(105, 96, 96);
+}
+nav{
+
+background-color: rgb(224, 174, 174);
+
+text-align:center;
+
+}
+
+li{
+
+display:inline-block;
+
+padding:8px;
+
+}
+
+a{
+
+    color:rgb(56, 17, 66);
+    
+    text-decoration:none;
+}
+
+a:hover{
+
+    color:white;
+    
+    background-color:rgb(56, 9, 78);
+    
+}
+#p1{
+
+  font-size: 40px;
+    color: rgb(51, 24, 56);
+    font: bold;
+}
+
+img{
+    width: 800px;
+    max-width: 100%;
+    height: auto;
+}
+article{
+    
+    text-decoration: indigo;
+    text-align: left;
+  background-color: rgb(146, 72, 106);
+}
+
+#img88{
+    width: 350px;
+}
+
+#img99{
+    width: 350px;
+}
+
+#img1010{
+    width: 350px;
+}
+
+#img1111{
+    width: 350px;
+}

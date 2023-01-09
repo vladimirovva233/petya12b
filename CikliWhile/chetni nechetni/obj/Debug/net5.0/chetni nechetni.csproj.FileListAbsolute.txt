@@ -1,0 +1,16 @@
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\chetni nechetni\bin\Debug\net5.0\chetni nechetni.exe
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\chetni nechetni\bin\Debug\net5.0\chetni nechetni.deps.json
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\chetni nechetni\bin\Debug\net5.0\chetni nechetni.runtimeconfig.json
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\chetni nechetni\bin\Debug\net5.0\chetni nechetni.runtimeconfig.dev.json
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\chetni nechetni\bin\Debug\net5.0\chetni nechetni.dll
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\chetni nechetni\bin\Debug\net5.0\ref\chetni nechetni.dll
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\chetni nechetni\bin\Debug\net5.0\chetni nechetni.pdb
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\chetni nechetni\obj\Debug\net5.0\chetni nechetni.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\chetni nechetni\obj\Debug\net5.0\chetni nechetni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\chetni nechetni\obj\Debug\net5.0\chetni nechetni.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\chetni nechetni\obj\Debug\net5.0\chetni nechetni.AssemblyInfo.cs
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\chetni nechetni\obj\Debug\net5.0\chetni nechetni.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\chetni nechetni\obj\Debug\net5.0\chetni nechetni.dll
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\chetni nechetni\obj\Debug\net5.0\ref\chetni nechetni.dll
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\chetni nechetni\obj\Debug\net5.0\chetni nechetni.pdb
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\chetni nechetni\obj\Debug\net5.0\chetni nechetni.genruntimeconfig.cache

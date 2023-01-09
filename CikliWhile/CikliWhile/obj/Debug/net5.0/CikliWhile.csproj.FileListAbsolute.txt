@@ -1,0 +1,16 @@
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\CikliWhile\bin\Debug\net5.0\CikliWhile.exe
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\CikliWhile\bin\Debug\net5.0\CikliWhile.deps.json
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\CikliWhile\bin\Debug\net5.0\CikliWhile.runtimeconfig.json
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\CikliWhile\bin\Debug\net5.0\CikliWhile.runtimeconfig.dev.json
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\CikliWhile\bin\Debug\net5.0\CikliWhile.dll
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\CikliWhile\bin\Debug\net5.0\ref\CikliWhile.dll
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\CikliWhile\bin\Debug\net5.0\CikliWhile.pdb
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\CikliWhile\obj\Debug\net5.0\CikliWhile.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\CikliWhile\obj\Debug\net5.0\CikliWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\CikliWhile\obj\Debug\net5.0\CikliWhile.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\CikliWhile\obj\Debug\net5.0\CikliWhile.AssemblyInfo.cs
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\CikliWhile\obj\Debug\net5.0\CikliWhile.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\CikliWhile\obj\Debug\net5.0\CikliWhile.dll
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\CikliWhile\obj\Debug\net5.0\ref\CikliWhile.dll
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\CikliWhile\obj\Debug\net5.0\CikliWhile.pdb
+C:\Users\Student\Documents\petya12b\petya12b\CikliWhile\CikliWhile\obj\Debug\net5.0\CikliWhile.genruntimeconfig.cache
