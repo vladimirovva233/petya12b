@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Ly3/LPMtqH5zEHptaoyr0s2qgL3fFqWF5+M46YAn2LSkKKuUw2/Sdln2mjDmi8qHAkSJdQ2YoCHvhmoem6okQ==",
+  "dgSpecHash": "Tpkdybvy4F0KK65t4SLV7CvdDk3dlX+JyL4fS72xt8vPm/1Z7cSrvCdsHQ63sGZqzWAeh6PiarF45hE4sXff3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Student\\source\\repos\\CatApp\\CatApp\\CatApp.csproj",
+  "projectFilePath": "C:\\Users\\Student\\Documents\\petya12b\\petya12b\\CatApp\\CatApp\\CatApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Student\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Student\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.17\\microsoft.aspnetcore.cryptography.internal.5.0.17.nupkg.sha512",

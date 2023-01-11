@@ -7599,11 +7599,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Student\\source\\repos\\CatApp\\CatApp\\CatApp.csproj",
+      "projectUniqueName": "C:\\Users\\Student\\Documents\\petya12b\\petya12b\\CatApp\\CatApp\\CatApp.csproj",
       "projectName": "CatApp",
-      "projectPath": "C:\\Users\\Student\\source\\repos\\CatApp\\CatApp\\CatApp.csproj",
+      "projectPath": "C:\\Users\\Student\\Documents\\petya12b\\petya12b\\CatApp\\CatApp\\CatApp.csproj",
       "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Student\\source\\repos\\CatApp\\CatApp\\obj\\",
+      "outputPath": "C:\\Users\\Student\\Documents\\petya12b\\petya12b\\CatApp\\CatApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
