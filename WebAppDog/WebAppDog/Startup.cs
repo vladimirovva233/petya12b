@@ -36,7 +36,6 @@ namespace WebAppDog
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
 
-            services.AddControllersWithViews();
             services.Configure<IdentityOptions>(option =>
            {
                option.Password.RequireDigit = false;

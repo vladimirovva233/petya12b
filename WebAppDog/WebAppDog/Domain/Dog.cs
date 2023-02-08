@@ -20,6 +20,6 @@ namespace WebAppDog.Domain
         [Required]
         [MaxLength(50)]
         public string Breed { get; set; }
-        public string ImageUrl { get; set; }
+        public string Picture { get; set; }
     }
 }

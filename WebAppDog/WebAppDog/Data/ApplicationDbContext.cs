@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using WebAppDog.Domain;
+using WebAppDog.Models;
 
 namespace WebAppDog.Data
 {
@@ -16,5 +17,9 @@ namespace WebAppDog.Data
         }
    
         public DbSet<Dog> Dogs { get; set; }
+   
+        public DbSet<WebAppDog.Models.DogCreateViewModel> DogCreateViewModel { get; set; }
+   
+        public DbSet<WebAppDog.Models.DogDetailsViewModel> DogDetailsViewModel { get; set; }
     }
 }
