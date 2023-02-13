@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using WebAppDog.Abstractions;
 using WebAppDog.Data;
 using WebAppDog.Domain;
 using WebAppDog.Models;
@@ -11,11 +12,11 @@ namespace WebAppDog.Controllers
 {
     public class DogsController : Controller
     {
-        private readonly ApplicationDbContext context;
+        private readonly IDogService _dogService;
 
-        public DogsController(ApplicationDbContext context)
+        public DogsController(IDogService dogService)
         {
-            this.context = context;
+            this._dogService = dogService;
         }
         public IActionResult Index()
         {
@@ -28,18 +29,23 @@ namespace WebAppDog.Controllers
         {
             if (ModelState.IsValid)
             {
-                Dog dogFromDb = new Dog
+                var created = _dogService.Create(bindingModel.Name, bindingModel.Age, bindingModel.Breed, bindingModel.Picture);
+                if(created)
                 {
-                    Name = bindingModel.Name,
-                    Age = bindingModel.Age,
-                    Breed = bindingModel.Breed,
-                    Picture = bindingModel.Picture,
-                };
+                    return this.RedirectToAction("Success");
+                }
+                //Dog dogFromDb = new Dog
+                //{
+                //    Name = bindingModel.Name,
+                //    Age = bindingModel.Age,
+                //    Breed = bindingModel.Breed,
+                //    Picture = bindingModel.Picture,
+                //};
 
-                context.Dogs.Add(dogFromDb);
-                context.SaveChanges();
+                //context.Dogs.Add(dogFromDb);
+                //context.SaveChanges();
 
-                return this.RedirectToAction("Success");
+                //return this.RedirectToAction("Success");
             }
             return this.View();
         }
